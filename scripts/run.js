@@ -9,7 +9,7 @@ var amy=new Car(1);
 amy.move();
 //var ben=carLike({},9);
 //var ben=Car(9);
-var ben=new Car(9);
+var ben=new Van(9);
 //move(ben);
 ben.move();
 
